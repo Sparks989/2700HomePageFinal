@@ -1,0 +1,42 @@
+.portraitImage {
+	position: absolute;
+	border-radius: 50%;
+	width:300px;
+	hight:300px;
+	margin-left: 1%;
+	margin-top: 1%;
+}
+
+.body {
+	position: relative;
+	background-color: slategray;
+	border-radius: 10%;
+	position: absolute;
+	width: 50%;
+	height: 70%;
+	margin-top: 10%;
+	margin-left: 25%;
+}
+
+.description{
+	position: relative;
+	margin: 5%;
+	margin-left: 50%;
+	font-size: 18px;
+	font-family: 'Kalam', cursive;
+	width: 40%;
+
+}
+
+.homePageLinks{
+	position: relative;
+	border-width: 25px 10px 10px 10px;
+	border-style: solid;
+	border-color: beige;
+	border-radius: 10%;
+	margin-left: 2%;
+}
+
+.banner {
+	position: absolute;
+}
